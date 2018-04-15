@@ -14,6 +14,7 @@
 		66654E662083289E00F8BD42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66654E642083289E00F8BD42 /* LaunchScreen.storyboard */; };
 		66654E712083289F00F8BD42 /* Leaders_CheckWork_RobertTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66654E702083289F00F8BD42 /* Leaders_CheckWork_RobertTests.swift */; };
 		66654E7C2083289F00F8BD42 /* Leaders_CheckWork_RobertUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66654E7B2083289F00F8BD42 /* Leaders_CheckWork_RobertUITests.swift */; };
+		66654E8A20832CDF00F8BD42 /* avengers.png in Resources */ = {isa = PBXBuildFile; fileRef = 66654E8920832CDF00F8BD42 /* avengers.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		66654E772083289F00F8BD42 /* Leaders_CheckWork_RobertUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Leaders_CheckWork_RobertUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		66654E7B2083289F00F8BD42 /* Leaders_CheckWork_RobertUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Leaders_CheckWork_RobertUITests.swift; sourceTree = "<group>"; };
 		66654E7D2083289F00F8BD42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66654E8920832CDF00F8BD42 /* avengers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avengers.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		66654E5A2083289D00F8BD42 /* Leaders_CheckWork_Robert */ = {
 			isa = PBXGroup;
 			children = (
+				66654E8920832CDF00F8BD42 /* avengers.png */,
 				66654E5B2083289D00F8BD42 /* AppDelegate.swift */,
 				66654E5D2083289D00F8BD42 /* ViewController.swift */,
 				66654E5F2083289D00F8BD42 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				66654E662083289E00F8BD42 /* LaunchScreen.storyboard in Resources */,
 				66654E632083289E00F8BD42 /* Assets.xcassets in Resources */,
+				66654E8A20832CDF00F8BD42 /* avengers.png in Resources */,
 				66654E612083289D00F8BD42 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
